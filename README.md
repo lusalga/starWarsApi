@@ -20,3 +20,5 @@ Create a webpage that when selecting a button, the website displays the informat
  b) font color as yellow and font family same as Star Wars 
 
 2 - Modify the code so we can display all the data available on the API.
+
+3 - Add scroll bar to CardList
