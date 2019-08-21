@@ -22,3 +22,5 @@ Create a webpage that when selecting a button, the website displays the informat
 2 - Modify the code so we can display all the data available on the API.
 
 3 - Add scroll bar to CardList
+
+4 - Add new Favicon file with a fun image to display
