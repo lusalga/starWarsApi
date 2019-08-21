@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import './index.css';
-import CardList from './CardList';
-import Button from './Button';
-import Footer from './Footer';
-import Nav from './Nav';
-import Cover from './Cover';
+import '../index.css';
+import CardList from '../components/CardList';
+import Button from '../components/Button';
+import Footer from '../components/Footer';
+import Nav from '../components/Nav';
+import Cover from '../components/Cover';
 
 class App extends Component {
   constructor(props){
