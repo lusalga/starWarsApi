@@ -24,3 +24,5 @@ Create a webpage that when selecting a button, the website displays the informat
 3 - Add scroll bar to CardList
 
 4 - Add new Favicon file with a fun image to display
+
+5 - To be defined later
