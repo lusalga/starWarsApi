@@ -17,7 +17,7 @@ class App extends Component {
   }
 
    componentDidMount(){
-    const urlList = ['https://swapi.co/api/'];
+    const urlList = ['https://swapi.py4e.com/api/'];
     fetch(urlList)
       .then(resp => resp.json())
       .then(data => {
