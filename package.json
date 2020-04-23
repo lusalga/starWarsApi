@@ -4,7 +4,9 @@
   "private": true,
   "homepage": "https://lusalga.github.io/starWarsApi",
   "dependencies": {
+    "acorn": "^7.1.1",
     "gh-pages": "^2.2.0",
+    "minimist": "^1.2.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
